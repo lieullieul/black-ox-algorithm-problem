@@ -3,7 +3,7 @@
 아제로스 최고의 길드 **흑우단**의 알고리즘 도장깨기
 
 ## Awards
-![Untitled](https://s3-us-west-2.amazonaws.com/secure.notion-static.com/39c38141-b805-4984-98a1-1856184e4576/Untitled.png)
+![award_001](./img/award_001.png)
 포션 제 1회 길드 쐐기대전 우승
 
 ## Problem list
