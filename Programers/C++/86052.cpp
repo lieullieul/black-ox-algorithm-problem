@@ -16,10 +16,10 @@ vector<int> solution(vector<string> grid)
     int cycleLen;                       // 사이클 길이
 
     // 3차원 벡터 할당 및 초기화
-    check.resize(grid.size());
+    check.reserve(grid.size());
     for (int i = 0; i < grid.size(); i++)
     {
-        check[i].resize(grid[i].size());
+        check[i].reserve(grid[i].size());
     }
     for (int i = 0; i < grid.size(); i++)
     {
