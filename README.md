@@ -28,4 +28,5 @@
 - [70129: 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 - [86052: 빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
 - [118666: 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
+- [118667: 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 - [133501: 야간 전술보행](https://school.programmers.co.kr/learn/courses/30/lessons/133501)
