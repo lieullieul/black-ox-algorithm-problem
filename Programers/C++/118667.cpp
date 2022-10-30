@@ -24,7 +24,7 @@ int solution(vector<int> queue1, vector<int> queue2)
     combQueue.insert(combQueue.end(), queue2.begin(), queue2.end());
 
     // 푸시, 팝을 실제로 하면서 탐색할거라면 벡터 대신 큐
-    // ex) q1.push(q2.front()); q1.pop();
+    // ex) q1.push(q2.front()); q2.pop();
     // 어차피 두 벡터에서 값이 순환함
     // 두 벡터를 합치고 그 안에서 각 벡터의 front만 이동시키면서 탐색
     cqSize = combQueue.size();
