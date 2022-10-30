@@ -21,6 +21,7 @@
 - [12951: JadenCase 문자열 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/12951)
 - [12973: 짝지어 제거하기](https://school.programmers.co.kr/learn/courses/30/lessons/12973)
 - [12981: 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
+- [17680: [1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
 - [17681: [1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
 - [42842: 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 - [42885: 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
