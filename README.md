@@ -28,6 +28,7 @@
 - [60057: 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
 - [70129: 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 - [86052: 빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
+- [92335: k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
 - [118666: 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 - [118667: 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 - [133501: 야간 전술보행](https://school.programmers.co.kr/learn/courses/30/lessons/133501)
