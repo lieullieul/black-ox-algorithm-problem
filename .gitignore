@@ -1,3 +1,4 @@
 .vscode
-Programers/C++/*.exe
-Programers/C++/test.cpp
+*.exe
+./a.out
+test.cpp
