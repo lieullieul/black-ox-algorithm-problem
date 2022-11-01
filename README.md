@@ -23,6 +23,7 @@
 - [12981: 영어 끝말잇기](https://school.programmers.co.kr/learn/courses/30/lessons/12981)
 - [17680: [1차] 캐시](https://school.programmers.co.kr/learn/courses/30/lessons/17680)
 - [17681: [1차] 비밀지도](https://school.programmers.co.kr/learn/courses/30/lessons/17681)
+- [42628: 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 - [42842: 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 - [42885: 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
 - [60057: 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
