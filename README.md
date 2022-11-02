@@ -27,6 +27,7 @@
 - [42842: 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 - [42885: 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
 - [60057: 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
+- [64064: 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
 - [70129: 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
 - [86052: 빛의 경로 사이클](https://school.programmers.co.kr/learn/courses/30/lessons/86052)
 - [92335: k진수에서 소수 개수 구하기](https://school.programmers.co.kr/learn/courses/30/lessons/92335)
