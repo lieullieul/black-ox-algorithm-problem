@@ -19,6 +19,7 @@
 ### Programers
 `C`
 - [42584: 주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)
+- [77885: 2개 이하로 다른 비트](https://school.programmers.co.kr/learn/courses/30/lessons/77885)
 - [92341: 주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)
 - [135807: 숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
 
