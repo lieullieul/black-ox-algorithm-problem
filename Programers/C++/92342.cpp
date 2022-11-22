@@ -59,7 +59,7 @@ void dfs(int shotCnt, int n, std::vector<int> &apeach, std::vector<int> &ryan, s
 
     int shot = 0;
 
-    // 같은 점수에 어피치보다 한발 더 쏜 경우까지만 탐색
+    // 같은 점수에 어피치보다 한 발 더 쏜 경우까지만 탐색
     while (shot <= apeach[score] + 1)
     {
         ryan[score] = shot;
