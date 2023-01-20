@@ -27,6 +27,7 @@
 - [135807: 숫자 카드 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/135807)
 - [136798: 기사단원의 무기](https://school.programmers.co.kr/learn/courses/30/lessons/136798)
 - [138477: 명예의 전당 (1)](https://school.programmers.co.kr/learn/courses/30/lessons/138477)
+- [148652: 유사 칸토어 비트열](https://school.programmers.co.kr/learn/courses/30/lessons/148652)
 
 `C++`
 - [1844: 게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)
