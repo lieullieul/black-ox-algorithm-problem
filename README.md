@@ -10,6 +10,7 @@
 ### BOJ
 `C`
 - [14716: 현수막](https://www.acmicpc.net/problem/14716)
+
 `C++`
 - [1236: 성 지키기](https://www.acmicpc.net/problem/1236)
 - [1399: 보물의 위치](https://www.acmicpc.net/problem/1399)
@@ -43,6 +44,8 @@
 - [42842: 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
 - [42885: 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
 - [43162: 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
+- [49993: 스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)
+- [49994: 방문 길이](https://school.programmers.co.kr/learn/courses/30/lessons/49994)
 - [60057: 문자열 압축](https://school.programmers.co.kr/learn/courses/30/lessons/60057)
 - [64064: 불량 사용자](https://school.programmers.co.kr/learn/courses/30/lessons/64064)
 - [70129: 이진 변환 반복하기](https://school.programmers.co.kr/learn/courses/30/lessons/70129)
@@ -52,5 +55,8 @@
 - [118666: 성격 유형 검사하기](https://school.programmers.co.kr/learn/courses/30/lessons/118666)
 - [118667: 두 큐 합 같게 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/118667)
 - [131130: 혼자 놀기의 달인](https://school.programmers.co.kr/learn/courses/30/lessons/131130)
+- [132265: 롤케이크 자르기](https://school.programmers.co.kr/learn/courses/30/lessons/132265)
 - [133501: 야간 전술보행](https://school.programmers.co.kr/learn/courses/30/lessons/133501)
 - [150369: 택배 배달과 수거하기](https://school.programmers.co.kr/learn/courses/30/lessons/150369)
+- [154538: 숫자 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/154538)
+- [154539: 뒤에 있는 큰 수 찾기](https://school.programmers.co.kr/learn/courses/30/lessons/154539)
