@@ -7,6 +7,13 @@
 포션 제 1회 길드 쐐기대전 우승
 
 ## Problem list
+### Leetcode
+`C++`
+- [1: Two Sum](https://leetcode.com/problems/two-sum)
+- [268: Missing Number](https://leetcode.com/problems/missing-number)
+- [1462: Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach)
+- [2402: Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)
+
 ### BOJ
 `C`
 - [14716: 현수막](https://www.acmicpc.net/problem/14716)
@@ -43,6 +50,7 @@
 - [42628: 이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)
 - [42746: 가장 큰 수](https://school.programmers.co.kr/learn/courses/30/lessons/42746)
 - [42842: 카펫](https://school.programmers.co.kr/learn/courses/30/lessons/42842)
+- [42883: 큰 수 만들기](https://school.programmers.co.kr/learn/courses/30/lessons/42883)
 - [42885: 구명보트](https://school.programmers.co.kr/learn/courses/30/lessons/42885)
 - [43162: 네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)
 - [49993: 스킬트리](https://school.programmers.co.kr/learn/courses/30/lessons/49993)
