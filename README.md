@@ -13,6 +13,7 @@
 - [2. Add Two Numbers](https://leetcode.com/problems/add-two-numbers)
 - [201. Bitwise AND of Numbers Range](https://leetcode.com/problems/bitwise-and-of-numbers-range)
 - [268. Missing Number](https://leetcode.com/problems/missing-number)
+- [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge)
 - [1462. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach)
 - [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)
