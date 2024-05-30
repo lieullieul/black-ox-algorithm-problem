@@ -16,6 +16,8 @@
 - [787. Cheapest Flights Within K Stops](https://leetcode.com/problems/cheapest-flights-within-k-stops)
 - [997. Find the Town Judge](https://leetcode.com/problems/find-the-town-judge)
 - [1111. Maximum Nesting Depth of Two Valid Parentheses Strings](https://leetcode.com/problems/maximum-nesting-depth-of-two-valid-parentheses-strings)
+- [1404. Number of Steps to Reduce a Number in Binary Representation to One](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-in-binary-representation-to-one)
+- [1442. Count Triplets That Can Form Two Arrays of Equal XOR](https://leetcode.com/problems/count-triplets-that-can-form-two-arrays-of-equal-xor)
 - [1462. Furthest Building You Can Reach](https://leetcode.com/problems/furthest-building-you-can-reach)
 - [1614. Maximum Nesting Depth of the Parentheses](https://leetcode.com/problems/maximum-nesting-depth-of-the-parentheses/)
 - [2402. Meeting Rooms III](https://leetcode.com/problems/meeting-rooms-iii)
